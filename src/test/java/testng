@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+ 
+  
+  <test>
+  <package name="com.psl.mainclasses">
+  <groups>
+  <include name="smokeTest"
+  <exclude name="RegressionTest"
+  </groups>
+  </package>
+  </test>
+   
+  <!-- Test -->
+</suite> <!-- Suite -->
